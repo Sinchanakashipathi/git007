@@ -1,0 +1,48 @@
+[33mcommit 2bb6c973992d3aa974a3fcc8db39044a3d160e6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sinch <sinch@gmail.com>
+Date:   Sat Apr 19 08:20:25 2025 +0000
+
+    2nd
+
+[33mcommit 085154c5d2d48fbd29ddb306928856d795693c3d[m
+Author: sinch <sinch@gmail.com>
+Date:   Fri Apr 18 11:50:31 2025 +0000
+
+    demofilecode
+
+[33mcommit 4f895a1a05125c906bb6220ddf95ce7bbed57833[m
+Author: sinch <sinch@gmail.com>
+Date:   Fri Apr 18 11:42:25 2025 +0000
+
+    empty
+
+[33mcommit 28d72a673b4e48d70ec9101629f340ba62f0f7f8[m
+Merge: 5ba8f7f 870da8d
+Author: sinch <sinch@gmail.com>
+Date:   Fri Apr 18 11:33:51 2025 +0000
+
+    conflict release
+
+[33mcommit 870da8d9f8510c88bc05f1a28d53bf6506ad7fbc[m[33m ([m[1;32mbranch-2[m[33m)[m
+Author: sinch <sinch@gmail.com>
+Date:   Fri Apr 18 11:29:44 2025 +0000
+
+    branch-2 code
+
+[33mcommit 5ba8f7f1abf47e965aa4514576c45f56fc66b3e9[m
+Author: sinch <sinch@gmail.com>
+Date:   Fri Apr 18 11:26:50 2025 +0000
+
+    2nd code
+
+[33mcommit e04bbcab7094fe86084b2960a73ec20d13ebfd83[m
+Author: sinch <sinch@gmail.com>
+Date:   Fri Apr 18 11:10:56 2025 +0000
+
+    branch-1 code
+
+[33mcommit 77c798467c97041e22cb604c9964d0c4db957f5c[m
+Author: sinch <sinch@gmail.com>
+Date:   Fri Apr 18 10:50:23 2025 +0000
+
+    another
